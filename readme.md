@@ -74,3 +74,8 @@ Adjust the number of workers based on your load requirements and server capacity
 3. **docker-entrypoint.py**: Describes the purpose and functionality of the entry point script used in the Docker setup.
 
 This README aims to provide comprehensive guidance on using your model handling server, ensuring it is accessible to users with varying levels of technical expertise. Adjust the paths and commands as necessary to match your specific deployment environment.
+
+
+
+## Reference https://medium.com/@eldad.cohen1/aws-sagemaker-multi-model-serving-a3985d827819
+## https://github.com/aws/amazon-sagemaker-examples/blob/main/advanced_functionality/multi_model_bring_your_own/container/model_handler.py
